@@ -1,4 +1,4 @@
-# RAP Travel Management – ABAP
+# RAP Travel Management -ABAP
 
 ## Overview
 This project demonstrates the use of the **ABAP RESTful Application Programming Model (RAP)**
@@ -26,5 +26,5 @@ generated using the RAP Generator Wizard in ABAP Development Tools (ADT).
 
 ## Notes
 ABAP source code resides on the SAP system.  
-This repository contains the version-controlled RAP artifacts exported using **abapGit**.
+This repository contains the version controlled RAP artifacts exported using **abapGit**.
 
