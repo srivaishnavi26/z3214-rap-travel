@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Service Definition for ZC_JPGEN_TRAVEL14'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZC_JPGEN_TRAVEL14'
+  }
+}
+define service ZUI_JPGEN_TRAVEL14_O4 provider contracts odata_v4_ui {
+  expose ZC_JPGEN_TRAVEL14 as TRAVEL;
+}
