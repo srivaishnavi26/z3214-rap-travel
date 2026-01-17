@@ -1,4 +1,4 @@
-# RAP Travel Management -ABAP
+# RAP Travel Management - ABAP
 
 ## Overview
 This project demonstrates the use of the **ABAP RESTful Application Programming Model (RAP)**
